@@ -1,0 +1,4 @@
+Project 7 – Cross-Source Record Linking
+- Files: Project7SourceA.csv (ground-truth-ish), Project7SourceB.csv (noisy)
+- Description: Overlapping invoices with varying identifiers (exact, digits-only, embedded tokens, prefixes), date drift, minor rounding, and injected ambiguities to require tie-breakers.
+- Suggested fields to consider: primary ids (invoice_id vs ref_code), amounts, dates, customer_name/email, purchase orders.
