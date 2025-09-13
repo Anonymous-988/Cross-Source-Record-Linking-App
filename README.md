@@ -52,7 +52,7 @@ pip install streamlit pandas numpy plotly difflib
 2. **Prepare Data**: Ensure you have `Project7SourceA.csv` and `Project7SourceB.csv`
 3. **Run Application**:
    ```bash
-   streamlit run record_linking_app.py
+   streamlit run main.py
    ```
 
 ### Quick Start
